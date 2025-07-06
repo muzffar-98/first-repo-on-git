@@ -1,4 +1,4 @@
 # first-repo-on-git
-My first Repository on Githun
+My first Repository on Github
 <br>
 Author: Muhammad Muzaffar Iqbal
